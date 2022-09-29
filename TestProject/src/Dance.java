@@ -5,6 +5,7 @@ public class Dance {
 		System.out.println("Watch those chickens dance!");
 		System.out.println("Watch those chickens dance1!");
 		System.out.println("Watch those chickens dance2!");
+		System.out.println("Watch those chickens dance3!");
 	}
 
 }
